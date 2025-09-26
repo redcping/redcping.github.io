@@ -10,28 +10,52 @@ My research interests include:
 - **Image/Video generation**  
 - **AI for healthcare**  
 
-I have published papers at top-tier conferences such as **CVPR, ICCV, NeurIPS, and EMNLP**, and serve as a reviewer for **NeurIPS, ICLR, CVPR, ICCV, ECCV, AAAI, and ACM MM**.  
+I have published papers at top-tier conferences such as **CVPR, ICCV, NeurIPS, ACM MM and EMNLP**.  
 
 ---
 
 ## 🔥 News
 
-- **2025.09**: 🎉 Three papers were accepted by *NeurIPS 2025*.  
-- **2025.06**: 🔥 We released **IMAGHarmony** for image editing.  
-- **2025.03**: 🏆 Our work on 2D-to-3D video conversion won the *Best Paper Award* at a CCF-A workshop.  
-- **2024.12**: ✨ One paper accepted by *AAAI 2025*.  
+- **2025.09**: 🎉 One paper was accepted by *NeurIPS 2025 (Spotlight)*.  
+- **2025.08**: 🔥 We released **ShortDF**, a novel shortest-path diffusion denoising model for image generation.
+- **2025.08**: 🎉 One paper was accepted by *EMNLP 2025 （long findings）*.
+- **2025.07**: 🎉 One paper was accepted by *ACMMM 2025*.  
+- **2025.02**: 🎉 One paper was accepted by *CVPR 2025 (Highlight)*, presenting **ShortDF**.
+- **2024.02**: 🎉 One paper was accepted by *CVPR 2024*.
+- **2023.03**: 🎉 One paper was accepted by *CVPR 2023*.
+- **2021.09**: 🎉 One paper was accepted by *ICCV 2021*.
 
 ---
 
 ## 📝 Selected Publications
 
-- **Video2Scene: Scene-Level 2D-to-3D Video Conversion**  
-  *CVPR 2025*  
+- **LeMiCa: Lexicographic Minimax Path Caching for Efficient Diffusion-Based Video Generation**  
+  *NeurIPS 2025 (Spotlight)* — Co-first author  
 
-- **MedGen3D: Generative Models for 3D Medical Imaging Reconstruction**  
-  *NeurIPS 2024*  
+- **Optimizing for the Shortest Path in Denoising Diffusion Model**  
+  *CVPR 2025 (Highlight)* — First author  
 
-[Full list →](#)  
+- **Fuzzy Reasoning Chain (FRC): An Innovative Reasoning Framework from Fuzziness to Clarity**  
+  *EMNLP 2025 (Long Findings)* — First author  
+
+- **CP3: Customizable 3D Pop-Out Effect Creation for Immersive Content Using Multimodal Models**  
+  *ACMMM 2025* — Co-first author  
+
+- **Learning Triangular Distribution in Visual World**  
+  *CVPR 2024* — First author  
+
+- **DAA: A Delta Age AdaIN Operation for Age Estimation via Binary Code Transformer**  
+  *CVPR 2023* — First author  
+
+- **I2uv-handnet: Image-to-UV Prediction Network for Accurate and High-Fidelity 3D Hand Mesh Modeling**  
+  *ICCV 2021* — First author  
+
+- **Do Real You Can Me**  
+  *Conference/Journal Name Year* — Collaborator  
+
+[Full list →](#)
+
+
 
 ---
 
