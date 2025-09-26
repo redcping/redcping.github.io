@@ -16,14 +16,14 @@ I have published papers at top-tier conferences such as **CVPR, ICCV, NeurIPS, A
 
 ## 🔥 News
 
-- **2025.09**: 🎉 One paper was accepted by *NeurIPS 2025 (Spotlight)*.  
+- **2025.09**: 🎉 One paper was accepted by **NeurIPS 2025 (Spotlight)**.  
 - **2025.08**: 🔥 We released **ShortDF**, a novel shortest-path diffusion denoising model for image generation.
-- **2025.08**: 🎉 One paper was accepted by *EMNLP 2025 （long findings）*.
-- **2025.07**: 🎉 One paper was accepted by *ACMMM 2025*.  
-- **2025.02**: 🎉 One paper was accepted by *CVPR 2025 (Highlight)*, presenting **ShortDF**.
-- **2024.02**: 🎉 One paper was accepted by *CVPR 2024*.
-- **2023.03**: 🎉 One paper was accepted by *CVPR 2023*.
-- **2021.09**: 🎉 One paper was accepted by *ICCV 2021*.
+- **2025.08**: 🎉 One paper was accepted by **EMNLP 2025 （long findings）**.
+- **2025.07**: 🎉 One paper was accepted by **ACMMM 2025**.  
+- **2025.02**: 🎉 One paper was accepted by **CVPR 2025 (Highlight)**, presenting **ShortDF**.
+- **2024.02**: 🎉 One paper was accepted by **CVPR 2024**.
+- **2023.03**: 🎉 One paper was accepted by **CVPR 2023**.
+- **2021.09**: 🎉 One paper was accepted by **ICCV 2021**.
 
 ---
 
